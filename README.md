@@ -1,2 +1,2 @@
 # MDGBL
-The code will be released when the paper is received
+The code will be released after the paper is received
